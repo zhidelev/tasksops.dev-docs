@@ -1,0 +1,7 @@
+site_name: From toy CRUD to real product building an AI-assisted task management backend in Python
+site_url: https://tasksops.dev/
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: material
