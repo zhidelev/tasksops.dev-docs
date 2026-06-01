@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# From toy CRUD to real product: building an AI-assisted task management backend in Python
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Goals:
 
-## Commands
+1. Learn by doing ( or building) a production-ready service for Tasks with ML components.
+2. Organize my own lists of tasks from different services I used in my life.
+3. Practice product engineering and development techniques ( integrations, data conflicts, background tasks, AI recommendations, security, audit and testing).
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+Not goals:
 
-## Project layout
+1. Vibe code a whole system from scratch (AI assistance is important and helpful but understanding all the steps of creating is crutial).
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Why yet another TO-DO app?
+
+First, it's simple and understandeble. Second, there a lot of tutorials on the Web how to build a To-Do app from scratch but not many even have a real database for data storing (many of them are using lists or dictionaries for storage during runtime).
+Even less are describing **Testing** or **Deployment** problems.
