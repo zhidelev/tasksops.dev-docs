@@ -2,6 +2,6 @@ site_name: From toy CRUD to real product building an AI-assisted task management
 site_url: https://tasksops.dev/
 nav:
   - Home: index.md
-  - About: about.md
+  - Introduction: 001_introduction.md
 theme:
   name: material
